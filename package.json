@@ -37,7 +37,7 @@
     "fastify": "^3.7.0",
     "fastify-multipart": "^4.0.0",
     "form-data": "^4.0.0",
-    "got": "^11.8.0",
+    "got": "^12.4.1",
     "h2url": "^0.2.0",
     "msgpack5": "^5.0.0",
     "nock": "^13.0.4",
